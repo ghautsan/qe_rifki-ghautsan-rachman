@@ -1,0 +1,16 @@
+1. Pada fase apa saja QE berperan pada proses SDLC? Sebutkan dan jelaskan peran seperti apa yang QE dapat lakukan pada setiap fase tersebut!
+= Pada proses SDLC, QE berperan pada fase planning, analysis, testing & integration, dan maintenance.
+  Planning = Pada fase planning semua anggota tim ikut merencanakan dan memahami apa yang akan dibuat dan dikerjakan.
+  Analysis = Pada fase anaylisis semua anggota tim menganalisis apa saja yang akan dibutuhkan oleh sistem dan lain-lain.
+  Testing & Integration = Pada fase ini Developer akan membuat dan mengintegrasikan hasil kerjanya dan akan dilakukan testing oleh QA.
+  Maintenance = Pada fase maintenance tandanya produk sudah diluncurkan dan akan dilakukan pemeliharaan serta penambahan fitur baru jika ada. 
+
+
+2. Menurut Anda, apa tantangan ketika menerapkan agile testing? Berikan penjelasan pada masing-masing 5 poin agile testing manifesto!
+= Tantangan ketika menerapkan agile testing menurut saya adalah, jika suatu tim tidak berkomitmen untuk mengerjakan sebuah proyek bersama-sama, karena akan memperlambat dan menggangu kinerja dari metode agile tersebut.
+  Penjelasan tentang 5 poin agile manifesto
+  - Testing is and activity not a phase, artinya seorang tester atau QA dapat melakukan testing secara berkala beriringan dengan developer, ini dilakukan agar seorang tester atau QA tidak kewalahan karena harus melakukan full testing di akhir proses sprint.
+  - Prevent bug rather than finding bugs, artinya kita lebih baik mencegah bug daripada menemukan bug dengan cara mempersiapkan requirement apa saja yang dibutuhkan dalam sebuah fitur sebelum membuat code, dengan begitu maka akan meminimalisir bug yang akan terjadi.
+  - Don't be a checker, be a tester, artinya sebagai tester harus melakukan improve dan memahami kebutuhan user yang akan menggunakan aplikasi, sehingga seorang tester dapat memberikan feedback terhadap apa yang sedang ditest.
+  - Don't try to break the system, instead build the best possible system, artinya sebagai seorang tester, QA harus menempatkan dirinya sebagai seorang user agar bisa menilai produk dari perspektif user dan membantu memberikan feedback kepada developer.
+  - The whole team is responsible for quality, not just the tester, artinya sebagai sebuah tim seluruh anggota tim tersebut bertanggung jawab atas apa yang sedang dikerjakan, jika terdapat sebuah bug pada produk/aplikasi, maka kita tidak bisa langsung menyalahkan tester atau QA karena kualitas dari produk/aplikasi tersebut adalah tanggung jawab seluruh anggota tim.
