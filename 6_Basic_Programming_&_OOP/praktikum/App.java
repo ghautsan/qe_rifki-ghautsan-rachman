@@ -1,30 +1,30 @@
 public class App {
     public static void main(String[] args) {
-//        // segitiga
-//        float alas = 20;
-//        float tinggi = 25;
-//
-//        // TODO: hitung luas segitiga
-//        double segitiga;
-//        segitiga = 0.5 * alas * tinggi;
-//        System.out.println(segitiga);
-//
-//        // persegi panjang
-//        float panjang = 40;
-//        float lebar = 6;
-//
-//        //TODO: hitung luas persegi panjang
-//        float persegi;
-//        persegi = panjang * lebar;
-//        System.out.println(persegi);
-//
-//        // lingkaran
-//        double jari2 = 7;
-//
-//        //TODO: hitung luas lingkaran
-//        double lingkaran;
-//        lingkaran = 3.14 * jari2 * jari2;
-//        System.out.println(lingkaran);
+        // segitiga
+        float alas = 20;
+        float tinggi = 25;
+
+        // TODO: hitung luas segitiga
+        double segitiga;
+        segitiga = 0.5 * alas * tinggi;
+        System.out.println(segitiga);
+
+        // persegi panjang
+        float panjang = 40;
+        float lebar = 6;
+
+        //TODO: hitung luas persegi panjang
+        float persegi;
+        persegi = panjang * lebar;
+        System.out.println(persegi);
+
+        // lingkaran
+        double jari2 = 7;
+
+        //TODO: hitung luas lingkaran
+        double lingkaran;
+        lingkaran = 3.14 * jari2 * jari2;
+        System.out.println(lingkaran);
 
 
         int hargaBeli1 = 15000;
