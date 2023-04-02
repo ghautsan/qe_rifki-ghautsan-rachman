@@ -1,0 +1,15 @@
+1. Jelaskan jenis-jenis dari performance testing (minimal: 3).
+= Load Testing
+Teknik pengujian performance dimana tujuan pengujian ini adalah untuk menentukan target load dari sebuah sistem. Pengujian ini diperlukan saat adanya sebuah event musiman yang menyebabkan lalu lintas (traffic) sistem bertambah seiring berjalannya waktu.
+
+Stress Testing
+Teknik pengujian performance yang dijalankan untuk mengetahui limit atau batas kemampuan dari sebuah sistem dengan cara membanjiri lalu lintas (traffic) sistem sampai sistem tersebut crash. Salah satu alasan utama dilakukannya pengujian ini adalah untuk menghindari terjadinya kegagalan sistem (system down).
+
+Spike Testing
+Teknik pengujian performance yang dijalankan untuk mengetahui jumlah load system apakah sesuai dengan ekspektasi. Spike dan load testing memiliki tujuan yang mirip. Bedanya dengan load testing adalah pengujian ini dilakukan dengan mengirim load yang banyak dalam waktu bersamaan.
+
+
+2. Sebutkan dan jelaskan tools yang dapat digunakan untuk melakukan performance testing (minimal: 3).
+= - Apache JMeter
+  - Rational Performance Tester
+  - SmartMeter.io
