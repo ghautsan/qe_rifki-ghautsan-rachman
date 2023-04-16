@@ -1,0 +1,13 @@
+1. Jelaskan jenis-jenis dari performance testing.
+=  Terdapat 4 jenis performance testing, diantaranya adalah:
+   -Load Testing
+	Merupakan bagian dari teknik pengujian performance dimana tujuan pengujian ini adalah untuk menentukan target load dari sebuah sistem. Pengujian ini diperlukan saat adanya sebuah event musiman yang menyebabkan lalu lintas (traffic) sistem bertambah seiring berjalannya waktu.
+
+   -Stress Testing
+	Merupakan bagian dari teknik pengujian performance yang dijalankan untuk mengetahui limit atau batas kemampuan dari sebuah sistem dengan cara membanjiri lalu lintas (traffic) sistem sampai sistem tersebut crash. Salah satu alasan utama dilakukannya pengujian ini adalah untuk menghindari terjadinya kegagalan sistem (system down).
+
+   -Endurance Testing
+	Merupakan bagian dari teknik pengujian performance yang dijalankan untuk menganalisis behavior atau performa sistem dengan load yang normal namun dalam jangka waktu yang panjang. Pengujian ini dilakukan untuk menghindari terjadinya kebocoran memori (memory leak). Di beberapa instansi, endurance testing tidak menjadi bagian dari tanggung jawab seorang Software Tester/QA. Pengujian ini biasanya dilakukan oleh seorang performance engineer, atau role yang lebih ahli di bidang ini.
+
+   -Spike Testing
+	Merupakan bagian dari teknik pengujian performance yang dijalankan untuk mengetahui jumlah load system apakah sesuai dengan ekspektasi. Spike dan load testing memiliki tujuan yang mirip. Bedanya dengan load testing adalah pengujian ini dilakukan dengan mengirim load yang banyak dalam waktu bersamaan.
